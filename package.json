@@ -1,0 +1,24 @@
+{
+  "name": "express-web-app",
+  "version": "1.0.0",
+  "description": "Docker Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "ng": "ng"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XGAC/DockerProject.git"
+  },
+  "keywords": [
+    "rest",
+    "node"
+  ],
+  "author": "Gaurav Chopade",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
