@@ -17,4 +17,4 @@ spec:
     spec:
       containers:
       - name: my-deployment-container
-        image: arvindrai10/finalproject:v1
+        image: 1767526/project:v1
